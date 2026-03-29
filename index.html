@@ -7,10 +7,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  
 </head>
 <body>
 
-<!-- NAV -->
 <nav>
   <div class="nav-logo">LD</div>
   <ul class="nav-links" id="navLinks">
@@ -26,83 +26,55 @@
   </button>
 </nav>
 
-<!-- HERO -->
 <div class="hero">
   <div class="hero-bg"></div>
-  <div class="hero-grid"></div>
-  <svg class="waveform" viewBox="0 0 1440 180" preserveAspectRatio="none">
-    <polyline id="wave" fill="none" stroke="#9F6EFF" stroke-width="1.5"/>
-  </svg>
-  <div class="hero-tag fade-up">Available for opportunities</div>
-  <h1 class="fade-up delay-1">
-    Luiz <span class="accent">D'urso</span>
-    <span class="line2">Designer que escreve código.</span>
-  </h1>
-  <p class="hero-desc fade-up delay-2">
-    Do design de interfaces ao desenvolvimento front-end — construo experiências onde
-    <strong>criatividade e lógica</strong> se encontram. UX/UI Designer com quase 4 anos de Figma
-    e uma transição intencional para o <strong>desenvolvimento front-end</strong>.
-  </p>
-  <div class="hero-cta fade-up delay-3">
-    <a href="#contato" class="btn btn-primary">Entre em contato</a>
-    <a href="#sobre" class="btn btn-secondary">Conheça minha história</a>
+  <div class="hero-content">
+    <div class="hero-tag fade-up">Available for opportunities</div>
+    <h1 class="fade-up delay-1">Luiz <span class="accent">D'urso</span><span class="line2">Designer que escreve código.</span></h1>
+    <p class="hero-desc fade-up delay-2">Do design de interfaces ao desenvolvimento front-end — construo experiências onde <strong>criatividade e lógica</strong> se encontram. UX/UI Designer com quase 4 anos de Figma e uma transição intencional para o <strong>desenvolvimento front-end</strong>.</p>
+    <div class="hero-cta fade-up delay-3">
+      <a href="#contato" class="btn btn-primary">Entre em contato</a>
+      <a href="#sobre" class="btn btn-secondary">Conheça minha história</a>
+    </div>
+    <div class="hero-roles fade-up delay-3">
+      <div class="hero-role"><span class="hero-role-num">#01</span><span class="hero-role-label">UX / UI Design</span></div>
+      <div class="hero-role"><span class="hero-role-num">#02</span><span class="hero-role-label">Front-end Dev</span></div>
+      <div class="hero-role"><span class="hero-role-num">#03</span><span class="hero-role-label">Eng. de Software</span></div>
+    </div>
   </div>
+  <div class="hero-photo-wrap fade-up delay-2">
+  <div class="hero-photo-glow"></div>
+  <div class="hero-photo-glow-top"></div>
+  <img class="hero-photo" src="img-profile.png" alt="Luiz D'urso">
+  <div class="hero-photo-badge">
+    <div class="hero-photo-badge-dot"></div>
+    <span>Disponível agora</span>
+  </div>
+</div>
 </div>
 
 <hr class="divider">
 
-<!-- SOBRE -->
 <section id="sobre">
   <div class="section-label reveal">sobre mim</div>
   <h2 class="reveal">De estagiário a analista.<br>De telas a código.</h2>
   <div class="about-grid">
     <div class="about-text reveal">
-      <p>
-        Entrei no mercado de design como estagiário em um setor que ainda estava sendo
-        <strong>criado do zero</strong>. Não havia manual, não havia processo pronto — havia uma
-        oportunidade de construir junto. Participei ativamente da estruturação do serviço,
-        do produto e do fluxo de trabalho desde o início. Com o tempo, passei a
-        <strong>ensinar, coordenar equipes e entregas</strong>, sempre propondo alternativas melhores
-        e trazendo conhecimento novo para o time.
-      </p>
-      <p>
-        Hoje sou <strong>Analista de Design</strong> com quase 4 anos de Figma, prototipagem de alta
-        fidelidade e estudos de UX. Cada protótipo que entrego carrega não só técnica — carrega
-        o olhar de quem acompanhou um produto crescer do zero e entende o impacto de cada
-        decisão de interface. A formação em design e um background em engenharia de som
-        me deram algo raro: <strong>sensibilidade criativa aliada à mentalidade técnica</strong>.
-      </p>
-      <p>
-        O próximo passo já está em andamento. Cursando <strong>Engenharia de Software</strong>,
-        aprendo a transformar designs em código real — HTML, CSS, JavaScript no front end,
-        com curiosidade crescente por Flutter e arquitetura de software. O objetivo é claro:
-        ser o profissional que <strong>projeta e constrói</strong>.
-      </p>
+      <p>Entrei no mercado de design como estagiário em um setor que ainda estava sendo <strong>criado do zero</strong>. Não havia manual, não havia processo pronto — havia uma oportunidade de construir junto. Participei ativamente da estruturação do serviço, do produto e do fluxo de trabalho desde o início. Com o tempo, passei a <strong>ensinar, coordenar equipes e entregas</strong>, sempre propondo alternativas melhores e trazendo conhecimento novo para o time.</p>
+      <p>Hoje sou <strong>Analista de Design</strong> com quase 4 anos de Figma, prototipagem de alta fidelidade e estudos de UX. Cada protótipo que entrego carrega não só técnica — carrega o olhar de quem acompanhou um produto crescer do zero e entende o impacto de cada decisão de interface. A formação em design e um background em engenharia de som me deram algo raro: <strong>sensibilidade criativa aliada à mentalidade técnica</strong>.</p>
+      <p>O próximo passo já está em andamento. Cursando <strong>Engenharia de Software</strong>, aprendo a transformar designs em código real — HTML, CSS, JavaScript no front end, com curiosidade crescente por Flutter e arquitetura de software. O objetivo é claro: ser o profissional que <strong>projeta e constrói</strong>.</p>
     </div>
     <div class="about-stats reveal">
-      <div class="stat-card">
-        <div class="stat-number">~4</div>
-        <div class="stat-label">Anos com Figma</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-number">3+</div>
-        <div class="stat-label">Formações concluídas</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-number">UX</div>
-        <div class="stat-label">Foco em pesquisa</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-number">FS</div>
-        <div class="stat-label">Meta Full Stack</div>
-      </div>
+      <div class="stat-card"><div class="stat-number">~4</div><div class="stat-label">Anos com Figma</div></div>
+      <div class="stat-card"><div class="stat-number">3+</div><div class="stat-label">Formações concluídas</div></div>
+      <div class="stat-card"><div class="stat-number">UX</div><div class="stat-label">Foco em pesquisa</div></div>
+      <div class="stat-card"><div class="stat-number">FS</div><div class="stat-label">Meta Full Stack</div></div>
     </div>
   </div>
 </section>
 
 <hr class="divider">
 
-<!-- FORMAÇÃO -->
 <section id="formacao">
   <div class="section-label reveal">formação</div>
   <h2 class="reveal">Da sala de aula<br>ao mundo real.</h2>
@@ -141,280 +113,135 @@
 
 <hr class="divider">
 
-<!-- SKILLS -->
 <section id="skills">
   <div class="section-label reveal">habilidades</div>
-  <h2 class="reveal">Ferramentas &<br>tecnologias.</h2>
+  <h2 class="reveal">Ferramentas &amp;<br>tecnologias.</h2>
   <p class="section-sub reveal">O que já domino, o que estou construindo e onde quero chegar.</p>
-
   <div class="skills-block reveal">
-    <div class="skills-block-title">// Design & UX — domínio sólido</div>
-    <div class="skills-grid">
-      <span class="skill-pill highlight">
-        <img class="pill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="">
-        Figma
-      </span>
-      <span class="skill-pill highlight">
-        <svg class="pill-icon-svg" viewBox="0 0 24 24" fill="none" stroke="#9F6EFF" stroke-width="1.5" stroke-linecap="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
-        Prototipagem Hi-Fi
-      </span>
-      <span class="skill-pill highlight">
-        <svg class="pill-icon-svg" viewBox="0 0 24 24" fill="none" stroke="#9F6EFF" stroke-width="1.5" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/><path d="M8 11h6M11 8v6"/></svg>
-        UX Research
-      </span>
-      <span class="skill-pill highlight">
-        <svg class="pill-icon-svg" viewBox="0 0 24 24" fill="none" stroke="#9F6EFF" stroke-width="1.5" stroke-linecap="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg>
-        UI Design
-      </span>
-      <span class="skill-pill highlight">
-        <svg class="pill-icon-svg" viewBox="0 0 24 24" fill="none" stroke="#9F6EFF" stroke-width="1.5" stroke-linecap="round"><path d="M4 6h16M4 10h10M4 14h12M4 18h8"/></svg>
-        Design System
-      </span>
-      <span class="skill-pill highlight">
-        <svg class="pill-icon-svg" viewBox="0 0 24 24" fill="none" stroke="#9F6EFF" stroke-width="1.5" stroke-linecap="round"><rect x="3" y="3" width="8" height="5" rx="1"/><rect x="13" y="3" width="8" height="5" rx="1"/><rect x="3" y="11" width="8" height="10" rx="1"/><rect x="13" y="11" width="8" height="5" rx="1"/></svg>
-        Wireframing
-      </span>
+    <div class="skills-block-title">// Design &amp; UX — domínio sólido</div>
+    <div class="tech-grid">
+      <div class="tech-card highlight"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma"><span>Figma</span></div>
+      <div class="tech-card highlight"><svg viewBox="0 0 36 36" fill="none"><rect x="4" y="4" width="12" height="12" rx="2" fill="#F97316"/><rect x="20" y="4" width="12" height="12" rx="2" fill="#F97316" opacity=".6"/><rect x="4" y="20" width="12" height="12" rx="2" fill="#F97316" opacity=".6"/><rect x="20" y="20" width="12" height="12" rx="2" fill="#F97316" opacity=".3"/></svg><span>Prototipagem Hi-Fi</span></div>
+      <div class="tech-card highlight"><svg viewBox="0 0 36 36" fill="none"><circle cx="16" cy="16" r="10" stroke="#F97316" stroke-width="2"/><path d="M28 28l-6-6" stroke="#F97316" stroke-width="2" stroke-linecap="round"/><path d="M12 16h8M16 12v8" stroke="#F97316" stroke-width="1.5" stroke-linecap="round"/></svg><span>UX Research</span></div>
+      <div class="tech-card highlight"><svg viewBox="0 0 36 36" fill="none"><rect x="3" y="5" width="30" height="20" rx="3" stroke="#F97316" stroke-width="2"/><path d="M12 31h12M18 25v6" stroke="#F97316" stroke-width="2" stroke-linecap="round"/></svg><span>UI Design</span></div>
+      <div class="tech-card highlight"><svg viewBox="0 0 36 36" fill="none"><path d="M6 9h24M6 15h16M6 21h20M6 27h12" stroke="#F97316" stroke-width="2" stroke-linecap="round"/></svg><span>Design System</span></div>
+      <div class="tech-card highlight"><svg viewBox="0 0 36 36" fill="none"><rect x="4" y="4" width="12" height="8" rx="2" stroke="#F97316" stroke-width="2"/><rect x="20" y="4" width="12" height="8" rx="2" stroke="#F97316" stroke-width="2"/><rect x="4" y="17" width="12" height="15" rx="2" stroke="#F97316" stroke-width="2"/><rect x="20" y="17" width="12" height="8" rx="2" stroke="#F97316" stroke-width="2"/></svg><span>Wireframing</span></div>
     </div>
   </div>
-
   <div class="skills-block reveal">
     <div class="skills-block-title">// Front-end — em desenvolvimento ativo</div>
-    <div class="skills-grid">
-      <span class="skill-pill">
-        <img class="pill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="">
-        HTML5
-      </span>
-      <span class="skill-pill">
-        <img class="pill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="">
-        CSS3
-      </span>
-      <span class="skill-pill">
-        <img class="pill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="">
-        JavaScript
-      </span>
-      <span class="skill-pill">
-        <svg class="pill-icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><rect x="5" y="2" width="14" height="20" rx="2"/><path d="M9 7h6M9 11h6M9 15h4"/></svg>
-        Responsivo / Mobile First
-      </span>
+    <div class="tech-grid">
+      <div class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"><span>HTML5</span></div>
+      <div class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"><span>CSS3</span></div>
+      <div class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"><span>JavaScript</span></div>
+      <div class="tech-card"><svg viewBox="0 0 36 36" fill="none"><rect x="7" y="4" width="22" height="28" rx="3" stroke="currentColor" stroke-width="2"/><path d="M11 10h14M11 15h10M11 20h12M11 25h7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg><span>Mobile First</span></div>
     </div>
   </div>
-
   <div class="skills-block reveal">
-    <div class="skills-block-title">// Engenharia & Back-end — explorando</div>
-    <div class="skills-grid">
-      <span class="skill-pill">
-        <img class="pill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="">
-        Java
-      </span>
-      <span class="skill-pill">
-        <img class="pill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="">
-        Flutter
-      </span>
-      <span class="skill-pill">
-        <img class="pill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="">
-        Banco de Dados (SQL)
-      </span>
-      <span class="skill-pill">
-        <svg class="pill-icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/><path d="M6.5 10v4M6.5 14h5a2 2 0 0 1 2 2v1"/></svg>
-        Arquitetura de Software
-      </span>
+    <div class="skills-block-title">// Engenharia &amp; Back-end — explorando</div>
+    <div class="tech-grid">
+      <div class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"><span>Java</span></div>
+      <div class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"><span>Flutter</span></div>
+      <div class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL"><span>Banco de Dados</span></div>
+      <div class="tech-card"><svg viewBox="0 0 36 36" fill="none"><rect x="4" y="4" width="10" height="10" rx="2" stroke="currentColor" stroke-width="2"/><rect x="22" y="4" width="10" height="10" rx="2" stroke="currentColor" stroke-width="2"/><rect x="22" y="22" width="10" height="10" rx="2" stroke="currentColor" stroke-width="2"/><path d="M9 14v5a4 4 0 0 0 4 4h5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Arquitetura</span></div>
     </div>
   </div>
-
   <div class="skills-block reveal">
     <div class="skills-block-title">// Soft skills — construídas na prática, não no currículo</div>
     <div class="softskill-narrative">
-      <p>Entrei no mercado como estagiário em um setor sendo criado do zero. Não havia processo
-      estabelecido — e isso foi o melhor ambiente de aprendizado possível.</p>
-      <p>Ao longo da trajetória, <strong>ensinei colegas, coordenei equipes e gerenciei entregas</strong>
-      em paralelo às minhas próprias responsabilidades. Aprendi que liderar não é sobre hierarquia —
-      é sobre propor soluções melhores, manter o time alinhado e elevar o nível do trabalho coletivo.
-      Cada melhoria de processo que propus foi uma aula de <strong>pensamento sistêmico aplicado</strong>.</p>
-      <p>Um período atuando como <strong>engenheiro de áudio em eventos ao vivo</strong> também contribuiu:
-      quando algo falha na frente de centenas de pessoas, você aprende a <strong>resolver problemas em tempo
-      real</strong>, comunicar-se sob pressão e manter presença mesmo no caos.</p>
-      <p>O fio condutor de tudo: curiosidade genuína e a disposição de <strong>trazer conhecimento novo
-      para melhorar o que já existe</strong> — seja um processo, uma interface ou uma equipe.</p>
+      <p>Entrei no mercado como estagiário em um setor sendo criado do zero. Não havia processo estabelecido — e isso foi o melhor ambiente de aprendizado possível.</p>
+      <p>Ao longo da trajetória, <strong>ensinei colegas, coordenei equipes e gerenciei entregas</strong> em paralelo às minhas próprias responsabilidades. Aprendi que liderar não é sobre hierarquia — é sobre propor soluções melhores, manter o time alinhado e elevar o nível do trabalho coletivo. Cada melhoria de processo que propus foi uma aula de <strong>pensamento sistêmico aplicado</strong>.</p>
+      <p>Um período atuando como <strong>engenheiro de áudio em eventos ao vivo</strong> também contribuiu: quando algo falha na frente de centenas de pessoas, você aprende a <strong>resolver problemas em tempo real</strong>, comunicar-se sob pressão e manter presença mesmo no caos.</p>
+      <p>O fio condutor de tudo: curiosidade genuína e a disposição de <strong>trazer conhecimento novo para melhorar o que já existe</strong> — seja um processo, uma interface ou uma equipe.</p>
     </div>
     <div class="skills-grid" style="margin-top:1.5rem">
       <span class="skill-pill"><span class="dot"></span>Liderança colaborativa</span>
-      <span class="skill-pill"><span class="dot"></span>Ensino & mentoria</span>
+      <span class="skill-pill"><span class="dot"></span>Ensino &amp; mentoria</span>
       <span class="skill-pill"><span class="dot"></span>Coordenação de entregas</span>
       <span class="skill-pill"><span class="dot"></span>Melhoria de processos</span>
       <span class="skill-pill"><span class="dot"></span>Pensamento centrado no usuário</span>
-      <span class="skill-pill"><span class="dot"></span>Escuta ativa & empatia</span>
+      <span class="skill-pill"><span class="dot"></span>Escuta ativa &amp; empatia</span>
       <span class="skill-pill"><span class="dot"></span>Decisão sob pressão</span>
-      <span class="skill-pill"><span class="dot"></span>Autonomia & iniciativa</span>
+      <span class="skill-pill"><span class="dot"></span>Autonomia &amp; iniciativa</span>
     </div>
   </div>
 </section>
 
 <hr class="divider">
 
-<!-- EXPERIÊNCIA -->
 <section id="experiencia">
   <div class="section-label reveal">experiência</div>
   <h2 class="reveal">Uma trajetória de<br>quem constrói de verdade.</h2>
   <p class="section-sub reveal">Da página em branco ao produto — passando por todas as fases do caminho.</p>
-
+  <div class="career-progress reveal">
+    <div class="career-step"><div class="career-step-dot">🌱</div><div class="career-step-title">Estagiário</div><div class="career-step-sub">Início da jornada</div></div>
+    <div class="career-step"><div class="career-step-dot">📐</div><div class="career-step-title">Designer Jr.</div><div class="career-step-sub">Crescimento técnico</div></div>
+    <div class="career-step active"><div class="career-step-dot">🎨</div><div class="career-step-title">Analista de Design</div><div class="career-step-sub">Posição atual</div></div>
+  </div>
   <div class="currently-banner reveal">
     <div class="currently-pulse"></div>
-    <div class="currently-text">
-      <strong>Atualmente:</strong>
-      <span> Analista de Design — prototipagem de alta fidelidade, estudos de UX/UI e colaboração direta com times de produto.</span>
-    </div>
+    <div class="currently-text"><strong>Atualmente:</strong><span> Analista de Design — prototipagem de alta fidelidade, estudos de UX/UI e colaboração direta com times de produto.</span></div>
   </div>
-
   <div class="exp-card reveal">
     <div class="exp-icon">🎨</div>
     <div>
-      <div class="exp-header">
-        <div class="exp-title">Analista de Design</div>
-        <div class="exp-badge">~4 anos</div>
-      </div>
-      <div class="exp-company">Produto & Design — trajetória completa</div>
-      <div class="exp-desc">
-        Comecei como estagiário em um setor que estava sendo <strong>criado do zero</strong> —
-        sem processos estabelecidos, sem referências internas. Esse ambiente me forçou a ser
-        proativo, propositivo e a aprender construindo. Participei ativamente da estruturação
-        do serviço, do produto e dos fluxos de trabalho desde o início.<br><br>
-        Com o tempo, passei a <strong>ensinar colegas, coordenar equipes e gerenciar entregas</strong>,
-        sempre propondo melhorias e trazendo conhecimento novo para elevar o padrão do que
-        entregávamos. Hoje, como Analista de Design, desenvolvo protótipos de alta
-        fidelidade no Figma, conduzo estudos de UX e trabalho diretamente com stakeholders
-        para transformar problemas reais em interfaces que funcionam.
-      </div>
+      <div class="exp-header"><div class="exp-title">Analista de Design</div><div class="exp-badge">~4 anos</div></div>
+      <div class="exp-company">Produto &amp; Design — trajetória completa</div>
+      <div class="exp-desc">Comecei como estagiário em um setor que estava sendo <strong>criado do zero</strong> — sem processos estabelecidos, sem referências internas. Esse ambiente me forçou a ser proativo, propositivo e a aprender construindo. Participei ativamente da estruturação do serviço, do produto e dos fluxos de trabalho desde o início.<br><br>Com o tempo, passei a <strong>ensinar colegas, coordenar equipes e gerenciar entregas</strong>, sempre propondo melhorias e trazendo conhecimento novo para elevar o padrão do que entregávamos. Hoje, como Analista de Design, desenvolvo protótipos de alta fidelidade no Figma, conduzo estudos de UX e trabalho diretamente com stakeholders para transformar problemas reais em interfaces que funcionam.</div>
     </div>
   </div>
-
   <div class="exp-card reveal">
     <div class="exp-icon amber">💻</div>
     <div>
-      <div class="exp-header">
-        <div class="exp-title">Desenvolvedor Front-end</div>
-        <div class="exp-badge">Em formação</div>
-      </div>
-      <div class="exp-company">Projetos pessoais & acadêmicos — Engenharia de Software</div>
-      <div class="exp-desc">
-        Construindo projetos com HTML, CSS e JavaScript para solidificar a ponte entre
-        design e código. A lógica de quem já pensa em sistemas e fluxos como designer
-        acelera muito o aprendizado de desenvolvimento. O objetivo: ser o profissional
-        que <em>projeta e constrói</em> — sem depender de handoff.
-      </div>
+      <div class="exp-header"><div class="exp-title">Desenvolvedor Front-end</div><div class="exp-badge">Em formação</div></div>
+      <div class="exp-company">Projetos pessoais &amp; acadêmicos — Engenharia de Software</div>
+      <div class="exp-desc">Construindo projetos com HTML, CSS e JavaScript para solidificar a ponte entre design e código. A lógica de quem já pensa em sistemas e fluxos como designer acelera muito o aprendizado de desenvolvimento. O objetivo: ser o profissional que <em>projeta e constrói</em> — sem depender de handoff.</div>
     </div>
   </div>
-
   <div class="exp-card reveal">
     <div class="exp-icon purple">🎚️</div>
     <div>
-      <div class="exp-header">
-        <div class="exp-title">Engenheiro de Som & Produtor Fonográfico</div>
-        <div class="exp-badge">Background</div>
-      </div>
-      <div class="exp-company">Estúdios & Eventos ao Vivo</div>
-      <div class="exp-desc">
-        Uma fase anterior da carreira que deixou marcas permanentes: gravei bandas entendendo
-        suas propostas artísticas do zero — primeiro exercício real de <em>escutar para
-        transformar</em>. Atuei em eventos de música ao vivo como engenheiro de áudio e ainda
-        cuidava da divulgação com meu olhar de design. Um capítulo que moldou a mentalidade
-        multidisciplinar que carrego hoje.
-      </div>
+      <div class="exp-header"><div class="exp-title">Engenheiro de Som &amp; Produtor Fonográfico</div><div class="exp-badge">Background</div></div>
+      <div class="exp-company">Estúdios &amp; Eventos ao Vivo</div>
+      <div class="exp-desc">Uma fase anterior da carreira que deixou marcas permanentes: gravei bandas entendendo suas propostas artísticas do zero — primeiro exercício real de <em>escutar para transformar</em>. Atuei em eventos de música ao vivo como engenheiro de áudio e ainda cuidava da divulgação com meu olhar de design. Um capítulo que moldou a mentalidade multidisciplinar que carrego hoje.</div>
     </div>
   </div>
 </section>
 
 <hr class="divider">
 
-<!-- ALÉM DO CÓDIGO -->
 <section id="alem">
   <div class="section-label reveal">além do código</div>
   <h2 class="reveal">O que alimenta<br>a curiosidade.</h2>
   <p class="section-sub reveal">Grandes produtos são feitos por pessoas com mundos internos ricos. Aqui está o meu.</p>
-
   <div class="beyond-grid reveal">
-    <div class="beyond-card" data-bg-char="📚">
-      <div class="beyond-icon">📚</div>
-      <div class="beyond-title">Fantasia & mundos construídos do zero</div>
-      <div class="beyond-body">
-        Fã de fantasia de carteirinha. Cresci dentro de <strong>Hogwarts</strong>, sobrevivi
-        aos jogos de <strong>Panem</strong> e cavalguei com <strong>Eragon e Saphira</strong> por
-        Alagaësia. Pensar em sistemas complexos com coerência é uma habilidade que a fantasia
-        treina melhor do que qualquer framework.
-      </div>
-    </div>
-    <div class="beyond-card" data-bg-char="🎮">
-      <div class="beyond-icon">🎮</div>
-      <div class="beyond-title">Games: prazer e laboratório de UX</div>
-      <div class="beyond-body">
-        Sou jogador por paixão — e sem perceber, por profissão. Todo bom game é uma
-        masterclass em onboarding, feedback visual e retenção. A melhor experiência
-        é aquela que você não nota — só sente. Games me ensinaram isso antes do UX.
-      </div>
-    </div>
-    <div class="beyond-card" data-bg-char="🎬">
-      <div class="beyond-icon">🎬</div>
-      <div class="beyond-title">Séries, filmes & a arte do frame</div>
-      <div class="beyond-body">
-        Consumidor voraz de histórias em movimento. O que me prende não é só o enredo —
-        é a direção de arte, a paleta de cores, o ritmo de edição, os silêncios calculados.
-        Cinema é design em sua forma mais completa: cada frame comunica com intenção.
-      </div>
-    </div>
-    <div class="beyond-card" data-bg-char="⚡">
-      <div class="beyond-icon">⚡</div>
-      <div class="beyond-title">Tecnologia como obsessão genuína</div>
-      <div class="beyond-body">
-        Não estudo tecnologia para passar na prova — ela me fascina de verdade.
-        Acompanho lançamentos, leio sobre arquitetura de software por vontade própria
-        e fico animado com cada novo conceito. Essa curiosidade não tem horário de trabalho:
-        ela é quem eu sou.
-      </div>
-    </div>
+    <div class="beyond-card" data-bg-char="📚"><div class="beyond-icon">📚</div><div class="beyond-title">Fantasia &amp; mundos construídos do zero</div><div class="beyond-body">Fã de fantasia de carteirinha. Cresci dentro de <strong>Hogwarts</strong>, sobrevivi aos jogos de <strong>Panem</strong> e cavalguei com <strong>Eragon e Saphira</strong> por Alagaësia. Pensar em sistemas complexos com coerência é uma habilidade que a fantasia treina melhor do que qualquer framework.</div></div>
+    <div class="beyond-card" data-bg-char="🎮"><div class="beyond-icon">🎮</div><div class="beyond-title">Games: prazer e laboratório de UX</div><div class="beyond-body">Sou jogador por paixão — e sem perceber, por profissão. Todo bom game é uma masterclass em onboarding, feedback visual e retenção. A melhor experiência é aquela que você não nota — só sente. Games me ensinaram isso antes do UX.</div></div>
+    <div class="beyond-card" data-bg-char="🎬"><div class="beyond-icon">🎬</div><div class="beyond-title">Séries, filmes &amp; a arte do frame</div><div class="beyond-body">Consumidor voraz de histórias em movimento. O que me prende não é só o enredo — é a direção de arte, a paleta de cores, o ritmo de edição, os silêncios calculados. Cinema é design em sua forma mais completa: cada frame comunica com intenção.</div></div>
+    <div class="beyond-card" data-bg-char="⚡"><div class="beyond-icon">⚡</div><div class="beyond-title">Tecnologia como obsessão genuína</div><div class="beyond-body">Não estudo tecnologia para passar na prova — ela me fascina de verdade. Acompanho lançamentos, leio sobre arquitetura de software por vontade própria e fico animado com cada novo conceito. Essa curiosidade não tem horário de trabalho: ela é quem eu sou.</div></div>
   </div>
-
   <div class="beyond-quote reveal">
-    <blockquote>
-      "Quem lê mundos impossíveis, assiste histórias complexas e joga sistemas intrincados<br>
-      desenvolve algo raro: <em>a capacidade de imaginar o que ainda não existe</em>."
-    </blockquote>
+    <blockquote>"Quem lê mundos impossíveis, assiste histórias complexas e joga sistemas intrincados<br>desenvolve algo raro: <em>a capacidade de imaginar o que ainda não existe</em>."</blockquote>
   </div>
 </section>
 
 <hr class="divider">
 
-<!-- CONTATO -->
 <div class="contact-section" id="contato">
   <div class="section-label reveal" style="justify-content:center">contato</div>
   <h2 class="reveal">Vamos construir<br>algo juntos?</h2>
-  <p class="reveal">
-    Aberto a oportunidades em design, front-end ou posições híbridas onde
-    as duas habilidades se encontram.
-  </p>
+  <p class="reveal">Aberto a oportunidades em design, front-end ou posições híbridas onde as duas habilidades se encontram.</p>
   <div class="contact-links reveal">
-    <a href="mailto:seuemail@email.com" class="contact-link">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>
-      Email
-    </a>
-    <a href="https://linkedin.com/in/luizdurso" target="_blank" rel="noopener" class="contact-link">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2zm2-3a2 2 0 110-4 2 2 0 010 4z"/></svg>
-      LinkedIn
-    </a>
-    <a href="https://github.com/luizdurso" target="_blank" rel="noopener" class="contact-link">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
-      GitHub
-    </a>
-    <!-- <a href="https://www.behance.net/luizdurso" target="_blank" rel="noopener" class="contact-link">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M7.799 5.698c.589 0 1.12.051 1.606.156.482.102.898.27 1.24.508.34.237.604.549.789.939.182.387.273.855.273 1.4 0 .6-.136 1.1-.408 1.502-.27.4-.669.73-1.194.986.72.211 1.261.588 1.621 1.13.358.54.538 1.192.538 1.955 0 .596-.112 1.11-.337 1.543a3.19 3.19 0 01-.927 1.104 4.126 4.126 0 01-1.358.666 5.898 5.898 0 01-1.619.219H2V5.698h5.799zm-.354 4.832c.47 0 .856-.114 1.158-.34.3-.228.449-.583.449-1.064 0-.27-.049-.494-.147-.671a1.099 1.099 0 00-.394-.42 1.67 1.67 0 00-.575-.22 3.35 3.35 0 00-.689-.068H4.709v2.783h2.736zm.14 5.084c.267 0 .521-.027.76-.08.24-.054.453-.145.636-.274.184-.13.332-.305.443-.525.111-.22.167-.497.167-.83 0-.66-.186-1.133-.557-1.42-.37-.285-.865-.428-1.482-.428H4.709v3.557h2.876zm9.378 1.17c.37.362.904.543 1.604.543.499 0 .929-.126 1.287-.376.357-.25.576-.515.658-.793h2.115c-.338 1.05-.857 1.8-1.557 2.25-.7.449-1.547.674-2.543.674-.69 0-1.311-.111-1.862-.332a4.097 4.097 0 01-1.402-.944 4.138 4.138 0 01-.888-1.463c-.207-.566-.31-1.19-.31-1.871 0-.659.107-1.273.32-1.842a4.3 4.3 0 01.909-1.473 4.14 4.14 0 011.4-.974 4.54 4.54 0 011.793-.348c.733 0 1.374.143 1.924.428.548.285.996.67 1.344 1.155.347.484.596 1.033.744 1.647.148.614.2 1.258.152 1.93h-6.315c.033.783.272 1.367.627 1.789zm2.75-4.726c-.293-.322-.766-.484-1.418-.484-.413 0-.755.07-1.025.21a2.06 2.06 0 00-.656.532 1.96 1.96 0 00-.35.686 3.37 3.37 0 00-.115.716h4.14c-.108-.697-.283-1.338-.576-1.66zm-3.532-5.21h4.885v1.18h-4.885v-1.18z"/></svg>
-      Behance
-    </a> -->
+    <a href="mailto:seuemail@email.com" class="contact-link"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>Email</a>
+    <a href="https://linkedin.com/in/luizdurso" target="_blank" rel="noopener" class="contact-link"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2zm2-3a2 2 0 110-4 2 2 0 010 4z"/></svg>LinkedIn</a>
+    <a href="https://github.com/luizdurso" target="_blank" rel="noopener" class="contact-link"><svg viewBox="0 0 24 24" fill="currentColor"><path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>GitHub</a>
+    <a href="https://www.behance.net/luizdurso" target="_blank" rel="noopener" class="contact-link"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M7.799 5.698c.589 0 1.12.051 1.606.156.482.102.898.27 1.24.508.34.237.604.549.789.939.182.387.273.855.273 1.4 0 .6-.136 1.1-.408 1.502-.27.4-.669.73-1.194.986.72.211 1.261.588 1.621 1.13.358.54.538 1.192.538 1.955 0 .596-.112 1.11-.337 1.543a3.19 3.19 0 01-.927 1.104 4.126 4.126 0 01-1.358.666 5.898 5.898 0 01-1.619.219H2V5.698h5.799zm-.354 4.832c.47 0 .856-.114 1.158-.34.3-.228.449-.583.449-1.064 0-.27-.049-.494-.147-.671a1.099 1.099 0 00-.394-.42 1.67 1.67 0 00-.575-.22 3.35 3.35 0 00-.689-.068H4.709v2.783h2.736zm.14 5.084c.267 0 .521-.027.76-.08.24-.054.453-.145.636-.274.184-.13.332-.305.443-.525.111-.22.167-.497.167-.83 0-.66-.186-1.133-.557-1.42-.37-.285-.865-.428-1.482-.428H4.709v3.557h2.876zm9.378 1.17c.37.362.904.543 1.604.543.499 0 .929-.126 1.287-.376.357-.25.576-.515.658-.793h2.115c-.338 1.05-.857 1.8-1.557 2.25-.7.449-1.547.674-2.543.674-.69 0-1.311-.111-1.862-.332a4.097 4.097 0 01-1.402-.944 4.138 4.138 0 01-.888-1.463c-.207-.566-.31-1.19-.31-1.871 0-.659.107-1.273.32-1.842a4.3 4.3 0 01.909-1.473 4.14 4.14 0 011.4-.974 4.54 4.54 0 011.793-.348c.733 0 1.374.143 1.924.428.548.285.996.67 1.344 1.155.347.484.596 1.033.744 1.647.148.614.2 1.258.152 1.93h-6.315c.033.783.272 1.367.627 1.789zm2.75-4.726c-.293-.322-.766-.484-1.418-.484-.413 0-.755.07-1.025.21a2.06 2.06 0 00-.656.532 1.96 1.96 0 00-.35.686 3.37 3.37 0 00-.115.716h4.14c-.108-.697-.283-1.338-.576-1.66zm-3.532-5.21h4.885v1.18h-4.885v-1.18z"/></svg>Behance</a>
   </div>
 </div>
 
-<!-- FOOTER -->
-<footer>
-  <span>Luiz D'urso</span> — Feito com atenção ao detalhe &amp; curiosidade genuína · 2025
-</footer>
+<footer><span>Luiz D'urso</span> — Feito com atenção ao detalhe &amp; curiosidade genuína · 2025</footer>
 
-<script src="script.js" defer></script>
+<script src="script.js"></script>
+
 </body>
 </html>
