@@ -5,8 +5,8 @@
 ### `Designer que escreve código.`
 
 [![Status](https://img.shields.io/badge/status-disponível%20para%20oportunidades-F97316?style=flat-square&labelColor=0F0C08)](https://luizdurso.github.io)
-[![Made with](https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS-F97316?style=flat-square&labelColor=0F0C08)](https://luizdurso.github.io)
-[![License](https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08)](#)
+![Made with](https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS-F97316?style=flat-square&labelColor=0F0C08)
+![License](https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08)
 
 </div>
 
