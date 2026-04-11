@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=600&height=80&lines=Luiz+D'urso" alt="Luiz D'urso" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=600&height=80&lines=Luiz+Gustavo+D'urso" alt="Luiz D'urso" />
 
 ### `Do pixel ao endpoint.`
 
 [![Status](https://img.shields.io/badge/status-disponível%20para%20oportunidades-F97316?style=flat-square&labelColor=0F0C08)](https://luizdurso.github.io/LuizDurso/)
-<a href="#"><img src="https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS%20%B7%20Java-F97316?style=flat-square&labelColor=0F0C08" alt="Made with"></a>
-<a href="#"><img src="https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08" alt="License"></a>
+<img src="https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS%20%B7%20Java-F97316?style=flat-square&labelColor=0F0C08" alt="Made with">
+<img src="https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08" alt="License">
 
 </div>
 
