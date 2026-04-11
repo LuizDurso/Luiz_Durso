@@ -57,6 +57,26 @@ O próximo passo já está em andamento — cursando **Engenharia de Software**,
 
 ---
 
+## `// este projeto`
+
+Este portfólio foi construído do zero — sem frameworks, sem templates.
+
+```
+Luiz_Durso/
+├── index.html       # estrutura e conteúdo
+├── style.css        # design system, animações e layout
+├── script.js        # interações e scroll animations
+└── img-profile.png  # foto
+```
+
+**Decisões de design:**
+- Dark theme com accent laranja `#F97316` — contraste alto, identidade forte
+- Tipografia: `Syne` para títulos, `DM Sans` para corpo, `JetBrains Mono` para detalhes técnicos
+- Animações via `IntersectionObserver` — performance sem dependências
+- Layout responsivo construído com CSS Grid e variáveis nativas
+
+---
+
 ## `// formação`
 
 ```
