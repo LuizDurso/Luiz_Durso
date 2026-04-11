@@ -94,7 +94,7 @@ Concluído     →  Técnico em Proc. Fonográfico Curso Técnico
 
 [![Email](https://img.shields.io/badge/Email-gustavodurso%40gmail.com-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavodurso@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luizdurso-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizdurso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luizdurso-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-gustavo-durso)
 [![GitHub](https://img.shields.io/badge/GitHub-luizdurso-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizdurso)
 
 </div>
