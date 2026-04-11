@@ -5,8 +5,8 @@
 ### `Do pixel ao endpoint.`
 
 [![Status](https://img.shields.io/badge/status-disponível%20para%20oportunidades-F97316?style=flat-square&labelColor=0F0C08)](https://luizdurso.github.io/LuizDurso/)
-<img src="https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS%20%B7%20Java-F97316?style=flat-square&labelColor=0F0C08" alt="Made with">
-<img src="https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08" alt="License">
+<a href="#"><img src="https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS%20%B7%20Java-F97316?style=flat-square&labelColor=0F0C08" alt="Made with"></a>
+<a href="#"><img src="https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08" alt="License"></a>
 
 </div>
 
