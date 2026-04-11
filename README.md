@@ -96,7 +96,6 @@ Concluído     →  Técnico em Proc. Fonográfico Curso Técnico
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luizdurso-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizdurso)
 [![GitHub](https://img.shields.io/badge/GitHub-luizdurso-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizdurso)
-[![Behance](https://img.shields.io/badge/Behance-luizdurso-F97316?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/luizdurso)
 
 </div>
 
