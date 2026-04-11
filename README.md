@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=600&height=80&lines=Luiz+D'urso" alt="Luiz D'urso" />
 
-### `Designer que escreve código.`
+### `Do pixel ao endpoint.`
 
 [![Status](https://img.shields.io/badge/status-disponível%20para%20oportunidades-F97316?style=flat-square&labelColor=0F0C08)](https://luizdurso.github.io)
-<a href="#"><img src="https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS-F97316?style=flat-square&labelColor=0F0C08" alt="Made with"></a>
+<a href="#"><img src="https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS%20%B7%20Java-F97316?style=flat-square&labelColor=0F0C08" alt="Made with"></a>
 <a href="#"><img src="https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08" alt="License"></a>
 
 </div>
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**`#01 UX / UI Design`** &nbsp;&nbsp;·&nbsp;&nbsp; **`#02 Front-end Dev`** &nbsp;&nbsp;·&nbsp;&nbsp; **`#03 Eng. de Software`**
+**`#01 UX / UI Design`** &nbsp;&nbsp;·&nbsp;&nbsp; **`#02 Front-end Dev`** &nbsp;&nbsp;·&nbsp;&nbsp; **`#03 Backend Java`**
 
 </div>
 
@@ -22,13 +22,11 @@
 
 ## `// sobre`
 
-Do design de interfaces ao desenvolvimento front-end — este portfólio é o ponto de encontro entre **criatividade e lógica**.
+Desenvolvedor **Fullstack em formação** com raiz sólida em UX/UI. Construo interfaces, automatizo processos e desenvolvo APIs — conectando design e engenharia de ponta a ponta.
 
-Entrei no mercado como estagiário em um setor que estava sendo criado do zero. Não havia processo estabelecido, não havia manual — havia uma oportunidade de construir junto. Com o tempo, passei a **ensinar, coordenar equipes e gerenciar entregas**, sempre propondo alternativas melhores e trazendo conhecimento novo para o time.
+Minha trajetória começou onde design e código se encontram: UX/UI e desenvolvimento frontend. Com o tempo, desenvolvi **automações com Python integradas ao Figma** e hoje estou focado em **backend com Java e Spring Boot**, desenvolvendo APIs REST e aprofundando arquitetura e boas práticas de engenharia.
 
-Hoje sou **Analista de Design** com quase 4 anos de Figma, prototipagem de alta fidelidade e estudos de UX. A formação em design aliada a um background em engenharia de som me deu algo raro: **sensibilidade criativa com mentalidade técnica**.
-
-O próximo passo já está em andamento — cursando **Engenharia de Software**, transformando designs em código real.
+Essa transição não é uma mudança de área — é a evolução natural de quem sempre quis conectar design, código e negócio numa visão completa.
 
 ---
 
@@ -37,23 +35,33 @@ O próximo passo já está em andamento — cursando **Engenharia de Software**,
 ### Design & UX — domínio sólido
 
 <a href="#"><img src="https://img.shields.io/badge/Figma-F97316?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+<a href="#"><img src="https://img.shields.io/badge/Prototipagem-F97316?style=for-the-badge&logoColor=white" alt="Prototipagem"></a>
 <a href="#"><img src="https://img.shields.io/badge/UX%20Research-F97316?style=for-the-badge&logoColor=white" alt="UX Research"></a>
 <a href="#"><img src="https://img.shields.io/badge/UI%20Design-F97316?style=for-the-badge&logoColor=white" alt="UI Design"></a>
-<a href="#"><img src="https://img.shields.io/badge/Design%20System-F97316?style=for-the-badge&logoColor=white" alt="Design System"></a>
-<a href="#"><img src="https://img.shields.io/badge/Prototipagem%20Hi--Fi-F97316?style=for-the-badge&logoColor=white" alt="Prototipagem Hi-Fi"></a>
 
-### Front-end — em desenvolvimento ativo
+### Frontend — domínio sólido
 
 <a href="#"><img src="https://img.shields.io/badge/HTML5-1C1710?style=for-the-badge&logo=html5&logoColor=F97316" alt="HTML5"></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1C1710?style=for-the-badge&logo=css3&logoColor=F97316" alt="CSS3"></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-1C1710?style=for-the-badge&logo=javascript&logoColor=F97316" alt="JavaScript"></a>
-<a href="#"><img src="https://img.shields.io/badge/Mobile%20First-1C1710?style=for-the-badge&logoColor=F97316" alt="Mobile First"></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-1C1710?style=for-the-badge&logo=typescript&logoColor=F97316" alt="TypeScript"></a>
 
-### Engenharia & Back-end — explorando
+### Automação — experiência anterior
 
-<a href="#"><img src="https://img.shields.io/badge/Java-1C1710?style=for-the-badge&logo=openjdk&logoColor=8A8070" alt="Java"></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-1C1710?style=for-the-badge&logo=python&logoColor=8A8070" alt="Python"></a>
+<a href="#"><img src="https://img.shields.io/badge/Figma%20API-1C1710?style=for-the-badge&logo=figma&logoColor=8A8070" alt="Figma API"></a>
+
+### Backend — foco atual
+
+<a href="#"><img src="https://img.shields.io/badge/Java-1C1710?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java"></a>
+<a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-1C1710?style=for-the-badge&logo=springboot&logoColor=F97316" alt="Spring Boot"></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-1C1710?style=for-the-badge&logo=postgresql&logoColor=F97316" alt="SQL"></a>
+<a href="#"><img src="https://img.shields.io/badge/API%20REST-1C1710?style=for-the-badge&logoColor=F97316" alt="API REST"></a>
+
+### Mobile — próxima fronteira
+
 <a href="#"><img src="https://img.shields.io/badge/Flutter-1C1710?style=for-the-badge&logo=flutter&logoColor=8A8070" alt="Flutter"></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-1C1710?style=for-the-badge&logo=postgresql&logoColor=8A8070" alt="PostgreSQL"></a>
+<a href="#"><img src="https://img.shields.io/badge/Dart-1C1710?style=for-the-badge&logo=dart&logoColor=8A8070" alt="Dart"></a>
 
 ---
 
