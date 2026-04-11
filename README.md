@@ -5,8 +5,8 @@
 ### `Designer que escreve código.`
 
 [![Status](https://img.shields.io/badge/status-disponível%20para%20oportunidades-F97316?style=flat-square&labelColor=0F0C08)](https://luizdurso.github.io)
-![Made with](https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS-F97316?style=flat-square&labelColor=0F0C08)
-![License](https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08)
+<img src="https://img.shields.io/badge/feito%20com-HTML%20%B7%20CSS%20%B7%20JS-F97316?style=flat-square&labelColor=0F0C08" alt="Made with">
+<img src="https://img.shields.io/badge/licença-MIT-F97316?style=flat-square&labelColor=0F0C08" alt="License">
 
 </div>
 
@@ -36,24 +36,24 @@ O próximo passo já está em andamento — cursando **Engenharia de Software**,
 
 ### Design & UX — domínio sólido
 
-![Figma](https://img.shields.io/badge/Figma-F97316?style=for-the-badge&logo=figma&logoColor=white)
-![UX Research](https://img.shields.io/badge/UX%20Research-F97316?style=for-the-badge&logoColor=white)
-![UI Design](https://img.shields.io/badge/UI%20Design-F97316?style=for-the-badge&logoColor=white)
-![Design System](https://img.shields.io/badge/Design%20System-F97316?style=for-the-badge&logoColor=white)
-![Prototipagem Hi-Fi](https://img.shields.io/badge/Prototipagem%20Hi--Fi-F97316?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Figma-F97316?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/UX%20Research-F97316?style=for-the-badge&logoColor=white" alt="UX Research">
+<img src="https://img.shields.io/badge/UI%20Design-F97316?style=for-the-badge&logoColor=white" alt="UI Design">
+<img src="https://img.shields.io/badge/Design%20System-F97316?style=for-the-badge&logoColor=white" alt="Design System">
+<img src="https://img.shields.io/badge/Prototipagem%20Hi--Fi-F97316?style=for-the-badge&logoColor=white" alt="Prototipagem Hi-Fi">
 
 ### Front-end — em desenvolvimento ativo
 
-![HTML5](https://img.shields.io/badge/HTML5-1C1710?style=for-the-badge&logo=html5&logoColor=F97316)
-![CSS3](https://img.shields.io/badge/CSS3-1C1710?style=for-the-badge&logo=css3&logoColor=F97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-1C1710?style=for-the-badge&logo=javascript&logoColor=F97316)
-![Mobile First](https://img.shields.io/badge/Mobile%20First-1C1710?style=for-the-badge&logoColor=F97316)
+<img src="https://img.shields.io/badge/HTML5-1C1710?style=for-the-badge&logo=html5&logoColor=F97316" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1C1710?style=for-the-badge&logo=css3&logoColor=F97316" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-1C1710?style=for-the-badge&logo=javascript&logoColor=F97316" alt="JavaScript">
+<img src="https://img.shields.io/badge/Mobile%20First-1C1710?style=for-the-badge&logoColor=F97316" alt="Mobile First">
 
 ### Engenharia & Back-end — explorando
 
-![Java](https://img.shields.io/badge/Java-1C1710?style=for-the-badge&logo=openjdk&logoColor=8A8070)
-![Flutter](https://img.shields.io/badge/Flutter-1C1710?style=for-the-badge&logo=flutter&logoColor=8A8070)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1710?style=for-the-badge&logo=postgresql&logoColor=8A8070)
+<img src="https://img.shields.io/badge/Java-1C1710?style=for-the-badge&logo=openjdk&logoColor=8A8070" alt="Java">
+<img src="https://img.shields.io/badge/Flutter-1C1710?style=for-the-badge&logo=flutter&logoColor=8A8070" alt="Flutter">
+<img src="https://img.shields.io/badge/PostgreSQL-1C1710?style=for-the-badge&logo=postgresql&logoColor=8A8070" alt="PostgreSQL">
 
 ---
 
