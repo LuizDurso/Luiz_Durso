@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=600&height=80&lines=Luiz+D'urso" alt="Luiz D'urso" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=600&height=80&lines=Mayara+Moraes" alt="Luiz D'urso" />
 
 ### `Designer que escreve código.`
 
